@@ -58,7 +58,7 @@
               }
           }, {
               path: '/other/',
-              url: 'other2.php',
+              url: 'https://cyrushub.app/app/other2.php',
               on: {
                   pageInit: function() {
                       console.log('Other');
@@ -77,7 +77,7 @@
               }
           },{
               path: '/tweaked/',
-              url: 'tweaked2.php',
+              url: 'https://cyrushub.app/app/tweaked2.php',
               on: {
                   pageInit: function() {
                       console.log('Tweaked');
@@ -96,7 +96,7 @@
               }
           }, {
               path: '/entertainment/',
-              url: 'entertainment2.php',
+              url: 'https://cyrushub.app/app/entertainment2.php',
               on: {
                   pageInit: function() {
                       console.log('Entertainment');
@@ -134,22 +134,22 @@
               }
           }, {
               path: '/social-page2/',
-              url: 'social-page2.php',
+              url: 'https://cyrushub.app/app/social-page2.php',
           },{
               path: '/tweaked-page2/',
-              url: 'tweaked-page2.php',
+              url: 'https://cyrushub.app/app/tweaked-page2.php',
           }, {
               path: '/other-page2/',
               url: 'other-page2.php',
           },{
               path: '/emulator-page2/',
-              url: 'emulator-page2.php',
+              url: 'https://cyrushub.app/app/emulator-page2.php',
           }, {
               path: '/entertainment-page2/',
-              url: 'entertainment-page2.php',
+              url: 'https://cyrushub.app/app/entertainment-page2.php',
           },  {
               path: '/emulators/',
-              url: 'emulators2.php',
+              url: 'https://cyrushub.app/app/emulators2.php',
               on: {
                   pageInit: function() {
                       console.log('Emulators');
@@ -169,7 +169,7 @@
           },
           {
               path: '/eclipse/',
-              url: 'eclipse.html',
+              url: 'https://cyrushub.app/app/eclipse.html',
          
               on: {
                   pageInit: function() {
@@ -187,21 +187,21 @@
           },
           {
               path: '/aurora/',
-              url: 'aurora.html',
+              url: 'https://cyrushub.app/app/aurora.html',
           },   
              {
               path: '/themes/',
-              url: 'themes.php',
+              url: 'https://cyrushub.app/app/themes.php',
           },     {
               path: '/theme-page2/',
-              url: 'theme-page2.php',
+              url: 'https://cyrushub.app/app/theme-page2.php',
           },
           {
               path: '/gameplay/',
-              url: 'gameplay.html',
+              url: 'https://cyrushub.app/app/gameplay.html',
           },          {
               path: '/terms/',
-              url: 'terms.html',
+              url: 'https://cyrushub.app/app/terms.html',
           },
          
          ],
